@@ -3,15 +3,15 @@
 See `README.md` for the full project introduction. This file tracks the task breakdown by phase.
 
 ## Phase 0: Setup
-- [ ] Create a project folder and a Git repository
-- [ ] Set up a Python environment (pandas, numpy, scikit-learn, matplotlib, seaborn)
-- [ ] Clone or download the MoH Malaysia GitHub repository
+- [x] Create a project folder and a Git repository
+- [x] Set up a Python environment (pandas, numpy, scikit-learn, matplotlib, seaborn)
+- [x] Clone or download the MoH Malaysia GitHub repository
 
 ## Phase 1: Get and Understand the Data
-- [ ] Load each CSV file and check the date range covered
-- [ ] Check what each column means (read the repository's README)
-- [ ] Confirm which rows are national level versus state level
-- [ ] Merge the files together into one table, joined by date
+- [x] Load each CSV file and check the date range covered
+- [x] Check what each column means (read the repository's README)
+- [x] Confirm which rows are national level versus state level
+- [x] Merge the files together into one table, joined by date
 
 ## Phase 2: Clean the Data
 - [ ] Check for missing dates or missing values in each file
