@@ -14,17 +14,17 @@ See `README.md` for the full project introduction. This file tracks the task bre
 - [x] Merge the files together into one table, joined by date
 
 ## Phase 2: Clean the Data
-- [ ] Check for missing dates or missing values in each file
-- [ ] Decide how to handle gaps (forward fill, interpolation, or drop)
-- [ ] Check for reporting errors or odd spikes (for example, a data correction day)
-- [ ] Make sure all dates are in the same format and sorted correctly
+- [x] Check for missing dates or missing values in each file
+- [x] Decide how to handle gaps (forward fill, interpolation, or drop)
+- [x] Check for reporting errors or odd spikes (for example, a data correction day)
+- [x] Make sure all dates are in the same format and sorted correctly
 
 ## Phase 3: Explore the Data (EDA)
-- [ ] Plot ICU occupancy over time to see waves and trends
-- [ ] Plot cases, hospital admissions, and ICU occupancy together to see how they relate and how much of a delay there is between them
-- [ ] Check correlation between testing rate, case counts, and ICU occupancy
-- [ ] Look at how vaccination rollout changed the relationship between cases and ICU occupancy over time
-- [ ] Write down 3 to 5 clear findings from this step, these will be useful later for the write-up
+- [x] Plot ICU occupancy over time to see waves and trends
+- [x] Plot cases, hospital admissions, and ICU occupancy together to see how they relate and how much of a delay there is between them
+- [x] Check correlation between testing rate, case counts, and ICU occupancy
+- [x] Look at how vaccination rollout changed the relationship between cases and ICU occupancy over time
+- [x] Write down 3 to 5 clear findings from this step, these will be useful later for the write-up
 
 ## Phase 4: Build Features
 - [ ] Create lag features (for example, cases 7, 14, 21 days ago)
