@@ -27,12 +27,12 @@ See `README.md` for the full project introduction. This file tracks the task bre
 - [x] Write down 3 to 5 clear findings from this step, these will be useful later for the write-up
 
 ## Phase 4: Build Features
-- [ ] Create lag features (for example, cases 7, 14, 21 days ago)
-- [ ] Create rolling averages (for example, 7-day average of new cases)
-- [ ] Create a feature for ICU capacity utilization rate (occupied beds divided by total beds)
-- [ ] Add vaccination coverage as a feature
-- [ ] Add day-of-week or seasonal indicators if relevant
-- [ ] Split the data into training and test sets by time (never shuffle randomly for time series, always split by date)
+- [x] Create lag features (for example, cases 7, 14, 21 days ago)
+- [x] Create rolling averages (for example, 7-day average of new cases)
+- [x] Create a feature for ICU capacity utilization rate (occupied beds divided by total beds)
+- [x] Add vaccination coverage as a feature
+- [x] Add day-of-week or seasonal indicators if relevant
+- [x] Split the data into training and test sets by time (never shuffle randomly for time series, always split by date)
 
 ## Phase 5: Build Models
 - [ ] Build a simple baseline model first (for example, "tomorrow's ICU occupancy equals today's occupancy") to have something to compare against
